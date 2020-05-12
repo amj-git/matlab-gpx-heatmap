@@ -16,7 +16,7 @@ You might find copyup.bat a useful tempalte if your files then end up in lots of
 Copied from this https://uk.mathworks.com/matlabcentral/fileexchange/24154-gpx-file-reader
 
 ## Google Map Data
-Copied from this amazing piece of work: https://www.mathworks.com/matlabcentral/fileexchange/27627-zoharby-plot_google_map
+Copied from this amazing piece of work: https://github.com/zoharby/plot_google_map
 
 Follow the instructions there to get your google maps API key
 
