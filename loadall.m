@@ -3,7 +3,7 @@
 %Centre on a reference file
 %Edit this line to choose which file to reference your initial map on
 %You can zoom around after this
-ref=loadgpx("data\activities\1289707912.gpx");
+ref=loadgpx("..\heatmap\data\activities\1289707912.gpx");
 minx=min(ref(:,5));
 maxx=max(ref(:,5));
 miny=min(ref(:,4));
@@ -30,7 +30,7 @@ grid on;
 hold on;
 
 %Edit this to point to a folder full of your GPX files
-myDir = "data\activities\";
+myDir = "..\heatmap\data\activities\";
 myFiles = dir(fullfile(myDir,'*.gpx'));
 
 hold off;
