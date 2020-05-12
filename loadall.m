@@ -1,4 +1,4 @@
-
+%loadall.m
 
 %Centre on a reference file
 %Edit this line to choose which file to reference your initial map on
