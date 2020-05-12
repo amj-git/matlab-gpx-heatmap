@@ -25,6 +25,6 @@ Save using edit/copy figure or see the plot_google_map doc above on getting a hi
 ## Example Output
 Here is my local running data
 
-![Image of Greenhouse System Architecture](https://github.com/amj-git/greenhouse/blob/master/doc/Greenhouse%20Application%20Architecture.png)
+![Example Output Picture](https://github.com/amj-git/matlab-gpx-heatmap/blob/master/doc/example1.jpeg)
 
 
